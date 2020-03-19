@@ -1,0 +1,29 @@
+MOH Case Number,Location,Age,Gender,Contraction in NZ,Detection Date,Arrival Date,Origin of Travel (Country),Origin of Travel (City),Travel Destination in NZ,Cities visited in Transit,Flight Numbers
+1,Auckland,60s,,FALSE,,2020-02-26,Iran,,Auckland,Bali,EK450
+2,Auckland,30s,Female,FALSE,,2020-02-25,Singapore,Singapore,Auckland,,NZ283
+3,Auckland,40s,Male,FALSE,,2020-02-23,Qatar,Doha,Auckland,,QR0920
+4,Auckland,40s,Male,FALSE,,2020-02-25,Singapore,,Auckland,,NZ283
+5,Auckland,40s,Female,FALSE,,2020-02-23,Qatar,Doha,Auckland,,QR0920
+6,Auckland,60s,Male,FALSE,,2020-03-06,USA,Houston,Auckland,,NZ029
+7,Dunedin,30s,Female,FALSE,,2020-03-10,Denmark,,Christchurch,"Doha, Auckland",JQ225
+8,Wellington,60s,Male,FALSE,,2020-03-14,France,,Wellington,"Singapore, Brisbane",NZ828
+9,Wellington,30s,Male,FALSE,,2020-03-14,,Los Angeles,Wellington,Auckland,AA83
+10,Wellington,70s,Male,FALSE,,2020-03-14,,Los Angeles,Wellington,Auckland,"AA83, NZ828"
+11,Dunedin,40s,Male,FALSE,,2020-03-08,Singapore,Singapore,Dunedin,Auckland,"NZ283, NZ675"
+12,Dunedin,Teens,Male,,,,,,Dunedin,,
+13,Auckland,50s,Male,,,,,,,,
+14,Auckland,40s,Female,FALSE,,2020-03-09,,,Auckland,,
+15,Auckland,60s,Male,FALSE,,,,San Francisco,Auckland,,NZ007
+16,Auckland,60s,Male,FALSE,,2020-03-12,Canada,,,,
+17,Invercargill,40s,Male,FALSE,,2020-03-05,,Gold Coast,,,
+18,Canterbury,40s,Female,FALSE,,2020-03-16,,London,,,
+19,Waikato,20s,Female,FALSE,,2020-03-08,,Sydney,,,
+20,Waikato,70s,Male,FALSE,,2020-03-15,,,,,
+21,Taranaki,40s,Female,FALSE,,2020-03-09,,Cairo,New Plymouth,"Dubai, ","EK926, EK448"
+22,Taranaki,40s,Male,FALSE,,2020-03-15,,Cairo,New Plymouth,,"LH581, NZ23, NZ8035"
+23,Northland,20s,Male,FALSE,,2020-03-16,,Paris,,,"EY38, EY450, VA0141"
+24,Rotorua,,Male,FALSE,,2020-03-13,France,,,,
+25,Auckland,60s,Male,FALSE,,2020-03-13,,Los Angeles,,,NZ05
+26,Auckland,,Male,FALSE,,2020-03-15,,London,,,"QF2, QF36, QF153"
+27,Southern DHB,,,,,,,,,,
+28,Southern DHB,,,,,,,,,,
