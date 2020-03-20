@@ -1,0 +1,88 @@
+{
+    "title": "COVID19 - New Zealand - Known Cases",
+    "subtitle": "Machine-friendly list of known cases in New Zealand",
+    "description": "### Context\n\nWith the arrival of the COVID19 virus in New Zealand, the ministry of health is tracking new cases and releasing daily updates on the situation on their webpage: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases. Much of the information given in these updates are not in a data science-friendly format. The objective of this dataset is to provide a friendly format for this data so that people can easily begin analysing the data.\n\n\n### Content\n\nAll data in this dataset has been acquired from the New Zealand Minstry of Health's 'COVID19 current cases' webpage, located here: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases. The Ministry of Health updates their page daily, that will be the targeted update frequency for this dataset too.\n\nContent:\n\n\n### Help improve this dataset\n\nIf you find any discrepancies between the Ministry of Health's data and this dataset, please provide your feedback as an issue on the git repo for this dataset: https://github.com/2kruman/COVID19-NZ-known-cases/issues.\n\n\n### Inspiration\n\nMajor questions that this data can help answer:\n- Where are the outbreaks happening?\n- Can the number of future infected be predicted?\n- The spread of the virus is logistic. Can we predict where the inflection point will be?",
+    "isPrivate": false,
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "keywords": [
+        "diseases",
+        "public health",
+        "public records",
+        "infectious diseases",
+        "covid19"
+    ],
+    "collaborators": [],
+    "data": [
+        {
+            "description": ".csv format file containing the dataset",
+            "name": "COVID19-NZ-known-cases.csv",
+            "totalBytes": 1951,
+            "columns": [
+                {
+                    "name": "MOH Case Number",
+                    "description": "Case number according to New Zealand Ministry of Health",
+                    "type": null
+                },
+                {
+                    "name": "Location",
+                    "description": "Location of Residence or Isolation/hospitalisation - Unclear",
+                    "type": "String"
+                },
+                {
+                    "name": "Age",
+                    "description": "Organised by decade-band",
+                    "type": "String"
+                },
+                {
+                    "name": "Gender",
+                    "description": "Male, Female or Other",
+                    "type": "String"
+                },
+                {
+                    "name": "Contraction in NZ",
+                    "description": "Whether the virus was contracted in New Zealand.",
+                    "type": "Boolean"
+                },
+                {
+                    "name": "Detection Date",
+                    "description": "The date the disease was detected (ISO 8601).",
+                    "type": "DateTime"
+                },
+                {
+                    "name": "Arrival Date",
+                    "description": "If contracted outside of New Zealand, when the infected person entered the country (ISO 8601).",
+                    "type": "DateTime"
+                },
+                {
+                    "name": "Origin of Travel (Country)",
+                    "description": "If contracted outside of New Zealand, the country where the individual originated their travel.",
+                    "type": null
+                },
+                {
+                    "name": "Origin of Travel (City)",
+                    "description": "If contracted outside of New Zealand, the city where the individual originated their travel.",
+                    "type": null
+                },
+                {
+                    "name": "Travel Destination in NZ",
+                    "description": "If contracted outside of New Zealand, the destination city/town within New Zealand.",
+                    "type": null
+                },
+                {
+                    "name": "Cities visited in Transit",
+                    "description": "If contracted outside of New Zealand, the cities the person visited in transit.",
+                    "type": null
+                },
+                {
+                    "name": "Flight Numbers",
+                    "description": "Flight numbers corresponding to travel.",
+                    "type": "String"
+                }
+            ]
+        }
+    ]
+}
