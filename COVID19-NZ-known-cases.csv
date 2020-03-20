@@ -19,7 +19,7 @@ MOH Case Number,Location,Age Band,Gender,Contraction in NZ,Detection Date,Arriva
 18,Canterbury,40,Female,FALSE,,2020-03-16,,London,,,
 19,Waikato,20,Female,FALSE,,2020-03-08,,Sydney,,,
 20,Waikato,70,Male,FALSE,,2020-03-15,,,,,
-21,Taranaki,40,Female,FALSE,,2020-03-09,,Cairo,New Plymouth,"Dubai, ","EK926, EK448"
+21,Taranaki,40,Female,FALSE,,2020-03-09,,Cairo,New Plymouth,Dubai,"EK926, EK448"
 22,Taranaki,40,Male,FALSE,,2020-03-15,,Cairo,New Plymouth,,"LH581, NZ23, NZ8035"
 23,Northland,20,Male,FALSE,,2020-03-16,,Paris,,,"EY38, EY450, VA0141"
 24,Rotorua,,Male,FALSE,,2020-03-13,France,,,,
