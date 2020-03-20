@@ -27,3 +27,14 @@ MOH Case Number,Location,Age Band,Gender,Contraction in NZ,Detection Date,Arriva
 26,Auckland,,Male,FALSE,,2020-03-15,,London,,,"QF2, QF36, QF153"
 27,Southern DHB,,,,,,,,,,
 28,Southern DHB,,,,,,,,,,
+29,Auckland,,,,,,,,,,
+30,Canterbury,50,Male,FALSE,,2020-03-15,USA,Los Angeles,Christchurch,Auckland,"AA83, NZ535"
+31,Wellington,40,Male,FALSE,,2020-03-14,United Kingdom,London,Wellington,"Singapore, Melbourne","SQ321, SQ247"
+32,Hawkes Bay,30,Male,FALSE,,2020-03-16,Germany,Munich,Napier,"Qatar, Auckland, Napier","QR58, QR920, NZ5021"
+33,Waikato,60,Male,FALSE,,,France,Paris,Auckland,Dubai,"EK74, EK450"
+34,Waikato,70,Female,FALSE,,,France,Paris,Auckland,Dubai,"EK74, EK450"
+35,Auckland,30,Female,FALSE,,,USA,Los Angeles,Auckland,,
+36,Auckland,40,Male,FALSE,,,USA,Los Angeles,Auckland,,
+37,Auckland,40,Female,FALSE,,2020-03-15,United Kingdom,London,Auckland,Doha,
+38,Wellington,30,Male,,,,,,,,
+39,Auckland,60,Male,,,,,,,,
