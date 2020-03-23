@@ -1,0 +1,102 @@
+85	Auckland	Child	M	Relative of a confirmed case
+84	Auckland	50s	M	Doha to Auckland on 18 March – flight QR920
+83	Auckland	50s	F	Doha to Auckland on 18 March – flight QR920
+82	Auckland	60s	F	Linked to two confirmed cases
+81	Auckland	60s	M	Dubai to Auckland on 18 March – flight EK0448
+80	Marlborough	50s	M	Sydney to Auckland on 18 March – flight QF143, Auckland to Blenheim on 18 March – flight NZ8205
+79	Tasman	20s	M	International travel – flight details to come
+78	Manawatu	40s	F	Sydney to Wellington on 19 March – flight NZ842
+77	Auckland	20s	F	Kuala Lumpur to Auckland on 19 March – flight MH0133
+76	Auckland	60s	M	Hong Kong to Auckland on 13 March – flight CX2191
+75	Waikato	70s	M	Relative of a confirmed case
+74	Auckland	20s	M	Travel to USA – flight details to come
+73	Auckland	Teens	M	Details to come
+72	Canterbury	20s	F	Singapore to Christchurch on 18 March – flight SQ297
+71	Auckland	30s	M	LA to Auckland on 18 March – flight NZ05
+70	Auckland	50s	F	Details to come
+69	Auckland	40s	M	Dubai to Auckland on 15 March – flight EK448
+68	Dunedin	20s	F	San Francisco to Auckland on 17 March – flight NZ07, Auckland to Dunedin on 19 March – flight JQ285
+67	Auckland	20s	F	Wellington to Auckland on 15 March – flight JQ256
+66	Auckland	50s	F	Dubai to Auckland on 15 March - flight EK448
+65	Northland	40s	F	Melbourne to Auckland on Sunday 15 March – flight JQ217
+64	Canterbury	50s	F	San Francisco to Auckland on Monday 16 March – flight NZ7
+Auckland to Christchurch on Tuesday 17 March – flight NZ523 
+63	Taranaki	20s	M	Dubai to Auckland on Tuesday 17 March – flight EK448
+Auckland to New Plymouth on 18 March – flight NZ8041
+62	Taranaki	50s	M	Bangkok to Auckland on Sunday 15 March – flight TG0491
+Auckland to New Plymouth on 16 March – flight NZ8041
+61	Auckland	40s	F	Travel to Africa – details to come
+60	Auckland	20s	M	Dubai to Auckland on Monday 16 March – flight EK448
+59	Auckland	60s	F	No international travel history – exposed at World Herefords Conference in Queenstown.
+58	Auckland	60s	M	No international travel history – exposed at World Herefords Conference in Queenstown. Domestic travel history:
+Dunedin to Auckland on Sunday 15 March – flight NZ674
+57	Hamilton	60s	F	Travel history to Ireland, Dubai and Australia. Details to come.
+56	Bay of Plenty	30s	M	Travel history to the United States of America – details to come.
+55	Waikato	60s	M	Honolulu to Auckland on 14 March – flight HA445 (arrived 15 March)
+54	Waikato	40s	F	Contact with a confirmed case
+53	Dunedin	40s	M	LA to Auckland on 14 March – flight NZ1
+Auckland to Queenstown on 14 March – flight NZ615
+52	Auckland	50s	F	Contact with probable case.
+51	Nelson	20s	F	Travel related, however international flights outside of infectious period. 
+Domestic flights: Auckland to Nelson on 16 March – flight 5065
+50	Nelson	60s	F	Contact with traveller. Further investigations continue.
+49	Manawatu	20s	F	Doha to Auckland on 14 March – flight QR0920
+Auckland to Palmerston North on 16 March – flight NZ5107
+48	Manawatu	40s	M	Queenstown to Christchurch on 13 March – flight NZ642
+Christchurch to Palmerston North on 13 March – flight NZ5181
+47	Taupo	50s	M	Dubai to Auckland on 10 March – flight EK0448
+46	Auckland	70s	M	Under investigation. Took internal flight when symptomatic. Dunedin to Auckland on 16 March – flight NZ674
+45	Wellington	30s	F	Dubai to Auckland on 12 March – flight EK44
+Auckland to Wellington on 12 March – flight NZ433
+44	Wellington	50s	M	Travel related, however international flights outside of infectious period. 
+Domestic flights:
+Auckland to Wellington on 8 March – flight NZ449
+Wellington to Hamilton on 12 March – flight NZ5810
+Hamilton to Wellington on 13 March – flight NZ5823.
+43	Wellington	50s	M	Sydney to Wellington on 14 March – flight QF161.
+42	Waikato	60s	F	Singapore to Auckland on 13 March – flight SQ0285.
+41	Auckland	60s	M	Cruise ship travel. Domestic flights – Dunedin to Auckland on 15 March – flight NZ670.
+40	Wellington 	50s	M	Sydney to Wellington on 14 March – flight EK0412 
+39	Otago	20s	Male	LA to Auckland on Wednesday 18 March – flight NZ554 Auckland to Queenstown on Wednesday 18 March – flight NZ615
+38	Wairarapa	30s	Male	Under investigation.
+37	Auckland	40s	Female	London to Doha to Auckland (on Sunday 15 March) - flight details to come.
+36	Auckland	40s	Male	Los Angeles to Auckland - flight details to come.
+35	Auckland	30s	Female	Los Angeles to Auckland - flight details to come.
+34	Waikato	60s	Female	Dubai to Auckland on Monday 16 March – flight EK0450
+33	Waikato	70s	Female	Dubai to Auckland on Monday 16 March – flight EK0450
+32	Hawkes Bay	30s	Male	Doha to Auckland on Monday 16 March – flight QR920 Auckland to Napier on Tuesday 17 March – flight NZ5021
+31	Wellington	40s	Male	Melbourne to Wellington on Saturday 14 March – flight SQ247
+30	Canterbury	50s	Male	Los Angeles to Auckland on Saturday 14 March – flight AA83
+Auckland to Christchurch on Sunday 15 March – flight NZ535
+29	Auckland	40s	Male	Singapore to Auckland on 11 March
+28	Southern DHB	60s	Male	Sydney to Christchurch on Friday 13 March – flight EK402
+27	Southern DHB	 30s	Female	London to Auckland on Tuesday 17 March – flight NZ1
+Auckland to Christchurch on Tuesday 17 March – flight NZ525 Christchurch to Dunedin on Tuesday 17 March – flight NZ5749
+26	Auckland	 40s	Male	Melbourne to Auckland on Sunday 15 March – flight QF153
+25	Auckland	60s	Male	Los Angeles to Auckland on Friday 13 March – flight NZ05
+24	Rotorua	 50s	Male	Singapore to Auckland on Friday 13 March - flight SQ285
+23	Northland	20s	Male	Sydney to Auckland on Monday 16 March – flight VA0141
+22	Taranaki	40s	Male	Cairo to Frankfurt (Lufthansa LH581 on Saturday 7 March) to Vancouver to Auckland on Sunday 15 March – flight NZ23 Auckland to New Plymouth on Sunday 15 March – flight NZ8035
+21	Taranaki	40s	Female	Dubai to Auckland on Monday 9 March - flight EK448 Auckland to New Plymouth on Monday 9 March - flight NZ8041
+20	Waikato	70s	Male	Singapore to Auckland on Sunday 15 March – flight SQ285
+19	Waikato	20s	Female	Sydney to Auckland on Sunday 8 March – flight NZ112
+18	Canterbury	40s	Female	Singapore to Christchurch on Monday 16 March – flight SQ297
+17	Invercargill	40s	Male	Travelled Australia to New Zealand on 10 March, flight details to come
+16	Auckland	60s	Male	Travelling from Canada (on Thursday 12 March) - flight details to come.
+15	Auckland	60s	Male	San Francisco to Auckland on Friday 13 March – flight NZ007
+14	Auckland	40s	Female	International travel – arrived 8 March, flight details to come
+13	Auckland	50s	Male	Dubai to Auckland on 14 March – flight EK448
+12	Dunedin	Teens	Male	Associated with travel of case 11.
+11	Dunedin	40s	Male	Singapore to Auckland on Saturday 7 March - flight NZ283 Auckland to Dunedin on Sunday 8 March - flight NZ675
+10	Wellington	70s	Male	Los Angeles to Auckland on 14 March – flight AA83
+Auckland to Wellington on 14 March – flight NZ419
+9	Wellington	30s	Male	Los Angeles to Auckland on 14 March – flight AA83
+Auckland to Wellington on 14 March – flight NZ419
+8	Wellington	60s	Male	Brisbane to Wellington on Saturday 14 March – flight NZ828  
+7	Dunedin	30s	Female	Denmark to Doha to Auckland on Tuesday 10 March - flight QR920) Auckland to Christchurch on Tuesday 10 March - flight JQ225
+6	Auckland	60s	Male	Houston to Auckland on Friday 6 March – flight NZ029  
+5	Auckland	40s	Female	Associated with travel - Doha to Auckland on Sunday 23 February – flight QR0920  
+4	Auckland	40s	Male	Singapore to Auckland on Tuesday 25 February – flight NZ283  
+3	Auckland	40s	Male	Associated with travel - Doha to Auckland on Sunday 23 February – flight QR0920  
+2	Auckland	30s	Female	Singapore to Auckland on Tuesday 25 February - flight NZ283  
+1	Auckland	60s	 	Iran to Bali to Auckland on Wednesday 26 February – flight EK450
