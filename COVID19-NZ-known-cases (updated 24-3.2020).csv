@@ -1,0 +1,143 @@
+MOH Case Number,Location of Case Report,Age Band,Gender,Contraction in NZ,Outside of Infection Period,Detection Date,Arrival Date,Origin of Travel (Country),Origin of Travel (City),Travel Destination in NZ,Cities visited in Transit,Flight Numbers
+1,Auckland,60,,FALSE,,,26-02-2020,Iran,,Auckland,Bali,['EK450']
+2,Auckland,30,Female,FALSE,,,25-02-2020,Singapore,Singapore,Auckland,,['NZ283']
+3,Auckland,40,Male,FALSE,,,23-02-2020,Qatar,Doha,Auckland,,['QR0920']
+4,Auckland,40,Male,FALSE,,,25-02-2020,Singapore,,Auckland,,['NZ283']
+5,Auckland,40,Female,FALSE,,,23-02-2020,Qatar,Doha,Auckland,,['QR0920']
+6,Auckland,60,Male,FALSE,,,06-03-2020,USA,Houston,Auckland,,['NZ029']
+7,Dunedin,30,Female,FALSE,,,10-03-2020,Denmark,,Christchurch,"Doha, Auckland",['JQ225']
+8,Wellington,60,Male,FALSE,,,14-03-2020,Australia,Brisbane,Wellington,,['NZ828']
+9,Wellington,30,Male,FALSE,,,14-03-2020,USA,Los Angeles,Wellington,Auckland,"['AA83', 'NZ419']"
+10,Wellington,70,Male,FALSE,,,14-03-2020,USA,Los Angeles,Wellington,Auckland,"['AA83', ' NZ828']"
+11,Dunedin,40,Male,FALSE,,,08-03-2020,Singapore,Singapore,Auckland,Auckland,"['NZ283', ' NZ675']"
+12,Dunedin,10,Male,FALSE,,,08-03-2020,Singapore,Singapore,Auckland,Auckland,"['NZ283', ' NZ675']"
+13,Auckland,50,Male,FALSE,,,14-03-2020,UAE,Dubai,Auckland,Auckland,['EK448']
+14,Auckland,40,Female,FALSE,,,08-03-2020,,,Auckland,,
+15,Auckland,60,Male,FALSE,,,13-03-2020,USA,San Francisco,Auckland,,['NZ007']
+16,Auckland,60,Male,FALSE,,,12-03-2020,Canada,,,,
+17,Invercargill,40,Male,FALSE,,,10-03-2020,Australia,Gold Coast,Auckland,,
+18,Canterbury,40,Female,FALSE,,,16-03-2020,Singapore,Singapore,Christchurch,,['SQ297']
+19,Waikato,20,Female,FALSE,,,08-03-2020,Australia,Sydney,Auckland,,['NZ112']
+20,Waikato,70,Male,FALSE,,,15-03-2020,Singapore,Singapore,Auckland,,['SQ285']
+21,Taranaki,40,Female,FALSE,,,09-03-2020,UAE,Dubai,New Plymouth,Auckland,"['EK448', 'NZ8041']"
+22,Taranaki,40,Male,FALSE,,,15-03-2020,Eygpt,Cairo,New Plymouth,"Frankfurt, Vancouver, Auckland","['LH581', 'NZ23', 'NZ8035']"
+23,Northland,20,Male,FALSE,,,16-03-2020,Australia,Sydney,Auckland,,['VA0141']
+24,Rotorua,50,Male,FALSE,,,13-03-2020,Singapore,Singapore,Auckland,,['SQ285']
+25,Auckland,60,Male,FALSE,,,13-03-2020,USA,Los Angeles,Auckland,,['NZ05']
+26,Auckland,40,Male,FALSE,,,15-03-2020,Australia,Melbourne,Auckland,,['QF153']
+27,Southern DHB,30,Female,FALSE,,,17-03-2020,United Kingdom,London,Dunedin,"Auckland, Christchurch","['NZ1', 'NZ525', 'NZ5747']"
+28,Southern DHB,60,Male,FALSE,,,13-03-2020,Australia,Sydney,Christchurch,,['EK402']
+29,Auckland,40,Male,FALSE,,,11-03-2020,Singapore,Singapore,Auckland,,
+30,Canterbury,50,Male,FALSE,,,14-03-2020,USA,Los Angeles,Christchurch,Auckland,"['AA83', ' NZ535']"
+31,Wellington,40,Male,FALSE,,,14-03-2020,Australia,Melbourne,Wellington,,['SQ247']
+32,Hawkes Bay,30,Male,FALSE,,,16-03-2020,Qatar,Doha,Napier,Auckland,"['QR920', ' NZ5021']"
+33,Waikato,70,Female,FALSE,,,16-03-2020,UAE,Dubai,Auckland,Dubai,['EK450']
+34,Waikato,60,Female,FALSE,,,16-03-2020,UAE,Dubai,Auckland,,['EK450']
+35,Auckland,30,Female,FALSE,,,,USA,Los Angeles,Auckland,,
+36,Auckland,40,Male,FALSE,,,,USA,Los Angeles,Auckland,,
+37,Auckland,40,Female,FALSE,,,15-03-2020,United Kingdom,London,Auckland,Doha,
+38,Wellington,30,Male,,,,,,,,,
+39,Otago,20,Male,FALSE,,,18-03-2020,USA,Los Angeles,Queenstown,Auckland,"['NZ554', 'NZ615']"
+40,Wellington,50,Male,FALSE,,,14-03-2020,Australia,Sydney,Welllington,,['EK0412']
+41,Auckland,60,Male,,,,,,,,,['NZ670']
+42,Waikato,60,Female,FALSE,,,13-03-2020,Singapore,Singapore,Auckland,,['SQ0285']
+43,Wellington,50,Male,FALSE,,,14-03-2020,Australia,Sydney,Wellington,,['QF161']
+44,Wellington,50,Male,,TRUE,,,,,,,"['NZ449', 'NZ5810', 'NZ5823']"
+45,Wellington,30,Female,FALSE,,,12-03-2020,UAE,Dubai,Wellington,Auckland,"['EK44', 'NZ433']"
+46,Auckland,70,Male,,,,,,,,,['NZ674']
+47,Taupo,50,Male,FALSE,,,10-03-2020,UAE,Dubai,Auckland,,['EK0448']
+48,Manawatu,40,Male,,,,,,,,,"['NZ642', 'NZ5181']"
+49,Manawatu,20,Female,FALSE,,,14-03-2020,Qatar,Doha,Palmerston North,Auckland,"['QR0920', 'NZ5107']"
+50,Nelson,60,Female,,,,,,,,,
+51,Nelson,20,Female,,TRUE,,,,,,,
+52,Auckland,50,Female,,,,,,,,,
+53,Dunedin,40,Male,FALSE,,,14-03-2020,USA,Los Angeles,Queenstown,Auckland,"['NZ1','NZ615']"
+54,Waikato,40,Female,,,,,,,,,
+55,Waikato,60,Male,FALSE,,,14-03-2020,USA,Honolulu,Auckland,,['HA445']
+56,Bay of Plenty,30,Male,,,,,USA,Details to come,Details to come,Details to come,Details to come
+57,Hamilton,60,Female,,,,,"Ireland, Dubai, Australia",Details to come,Details to come,Details to come,Details to come
+58,Auckland,60,Male,,,,,,,,,['NZ674']
+59,Auckland,60,Female,,,,,,,,,
+60,Auckland,20,Male,FALSE,,,16-03-2020,UAE,Dubai,Auckland,,['EK448']
+61,Auckland,40,Female,,,,,Africa,Details to come,Details to come,Details to come,Details to come
+62,Taranaki,50,Male,FALSE,,,15-03-2020,,Bangkok,New Plymouth,Auckland,"['TG0491','NZ8041']"
+63,Taranaki,20,Male,FALSE,,,17-03-2020,UAE,Dubai,New Plymouth,Auckland,"['EK448','NZ8041']"
+64,Canterbury,50,Female,FALSE,,,16-03-2020,USA,San Francisco,Christchurch,Auckland,"['NZ7','NZ523']"
+65,Northland,40,Female,FALSE,,,15-03-2020,Australia,Melbourne,Auckland,,['JQ217']
+66,Auckland,50,Female,FALSE,,,15-03-2020,UAE,Dubai,Auckland,,['EK448']
+67,Auckland,20,Female,FALSE,,,15-03-2020,,,,,['JQ256']
+68,Dunedin,20,Female,FALSE,,,15-03-2020,USA,San Francisco,Dunedin,Auckland,"['NZ07', 'JQ285']"
+69,Dunedin,40,Male,FALSE,,,15-03-2020,UAE,Dubai,Auckland,,['EK448']
+70,Auckland,50,Female,,,,,,,,,
+71,Auckland,30,Male,FALSE,,,18-03-2020,USA,Los Angeles,Auckland,,['NZ05']
+72,Canterbury,20,Female,FALSE,,,18-03-2020,Singapore,Singapore,Christchurch,,['SQ297']
+73,Auckland,10,Male,,,,,,,,,
+74,Auckland,20,Male,,,,,USA,Details to come,Details to come,Details to come,Details to come
+75,Waikato,70,Male,,,,,,,,,
+76,Auckland,60,Male,FALSE,,,13-03-2020,China,Hong Kong,,,['CX2191']
+77,Auckland,20,Female,FALSE,,,19-03-2020,Malaysia,Kuala Lumpur,Auckland,,['MH0133']
+78,Manawatu,40,Female,FALSE,,,19-03-2020,Australia,Sydney,Auckland,,['NZ842']
+79,Tasman,20,Male,,,,,,,,,
+80,Marlborough,50,Male,FALSE,,,18-03-2020,Australia,Sydney,Auckland,,['NZ8205']
+81,Auckland,60,Male,FALSE,,,18-03-2020,UAE,Dubai,,,['EK0448']
+82,Auckland,60,Female,,,,,,,,,
+83,Auckland,50,Female,FALSE,,,18-03-2020,Qatar,Doha,Auckland,,['QR920']
+84,Auckland,50,Female,FALSE,,,18-03-2020,Qatar,Doha,Auckland,,['QR920']
+85,Auckland,0,Male,,,,,,,,,
+86,Wellington,60,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+87,Canterbury,20,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+88,Nelson,70,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+89,Nelson,70,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+90,Auckland,50,Male,FALSE,,,15-03-2020,USA,Los Angeles,,,['NZ1']
+91,Auckland,40,Female,FALSE,,,15-03-2020,USA,Los Angeles,,,['NZ1']
+92,Auckland,20,Male,FALSE,,,22-03-2020,Qatar,Doha,Auckland,,['QR920']
+93,Auckland,40,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+94,Auckland,20,Female,FALSE,,,19-03-2020,UAE,Dubai,Auckland,,['EK448']
+95,Auckland,40,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+96,Wellington,40,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+97,Wellington,20,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+98,Kapiti Coast,60,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+99,Nelson,50,Female,,,,,,,,,
+100,Auckland,10,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+101,Upper Hutt,50,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+102,Auckland,50,Male,,,,08-03-2020,Details to come,Details to come,Details to come,Details to come,Details to come
+103,Auckland,40,Male,,,,18-03-2020,USA,Details to come,Details to come,Details to come,Details to come
+104,Auckland,20,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+105,Waitaki,20,Male,FALSE,,,16-03-2020,Switzerland,,,Abu Dhabi,['EY0052']
+106,Otago,50,Female,,,,,,,,,
+107,Dunedin,30,Female,,,,,,,,,
+108,Queenstown,10,Male,FALSE,,,18-03-2020,UAE,Dubai,Queenstown,,"['EK448','EK7563']"
+109,Christchurch,60,Female,,,,,,,,,
+110,Christchurch,60,Male,,,,,,,,,
+111,Waikato,60,Female,FALSE,,,16-03-2020,UAE,Dubai,Auckland,,['EK448']
+112,Auckland,30,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+113,Auckland,40,Male,,,,18-03-2020,Details to come,Details to come,Auckland,Details to come,Details to come
+114,Auckland,10,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+115,Auckland,30,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+116,Auckland,20,Female,,,,20-03-2020,,Details to come,Auckland,Details to come,Details to come
+117,Auckland,30,Female,,,,18-03-2020,,Details to come,Auckland,Details to come,Details to come
+118,Auckland,10,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+119,Waikato,50,Male,,,,,,,,,
+120,Dunedin,60,Male,FALSE,,,15-03-2020,United Kingdom,London,Dunedin,"Los Angeles,Auckland","['NZ5','NZ671']"
+121,Dunedin,30,Male,FALSE,,,19-03-2020,UAE,Dubai,Dunedin,Auckland,"['EK447','JQ285']"
+122,Auckland,20,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+123,Nelson,80,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+124,Wellington,50,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+125,Wellington,60,Female,,,,19-03-2020,USA,Details to come,Details to come,Details to come,Details to come
+126,Wellington,60,Male,,,,19-03-2020,USA,Details to come,Details to come,Details to come,Details to come
+127,Wellington,50,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+128,Wellington,30,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+129,Wellington,30,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+130,Wellington,50,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+131,Hawke's Bay,70,Male,FALSE,,,18-03-2020,Spain,Barcelona,Napier,"Dubai, Auckland","['EK448','NZ5021']"
+132,Hawke's Bay,70,Female,FALSE,,,18-03-2020,Spain,Barcelona,Napier,"Dubai, Auckland","['EK448','NZ5021']"
+133,Wellington,50,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+134,Wellington,70,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+135,Wellington,70,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+136,Auckland,60,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+137,Marlborough,30,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+138,Marlborough,60,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+139,Wellington,64,Male,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+140,Wairarapa,20,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+141,New Plymouth,60,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
+142,Waitemata,30,Female,,,,Details to come,Details to come,Details to come,Details to come,Details to come,Details to come
