@@ -1,0 +1,12 @@
+PURPOSE OF THIS DATA SET
+This data set gives information about each case's travel information. This means they were definitely in that country's airport. Passing this information to relevant authorities will help identify who the case was sitting next to at the airport, during transit, on the plane and possibly what they touched during their journey (Can be found by CCTV). 
+
+It can also be used to find the flights which had the maximum number of COVID-19 cases. In such flights, there is maximum probability for all the people sitting next\near to the cases under consideration to have also been affected. This information could be provided to health ministries of other governments so they can identify the potential cases on the plane and quarantine them before they come into contact with other people thus preventing community spread. The same can also be done for all the flights. 
+
+This is otherwise known as contact tracing which is exactly what the public health staff is doing at the moment. 
+
+These are the issues/questions that the ANALYSIS of this data set can answer.
+
+As for the questions that the data set itself can answer, they are cities whose airports have been contaminated (cases during transit,origin and destination), the flights which have been contaminated and so on.
+
+But, the analysis and the publication of this data can be used to answer a multitude of questions.
